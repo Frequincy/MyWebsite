@@ -101,6 +101,17 @@ h1 a {
         margin-left: 5%;
         margin-right: 5%;
     }
+#contactInfo{
+    display: flex;
+    flex-direction: row;
+}
+#contPhone{
+    margin-left: 50px;
+}
+#abtMeP{
+    font-size: 25px;
+    
+}
 
 
 
