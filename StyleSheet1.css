@@ -104,6 +104,7 @@ h1 a {
 #contactInfo{
     display: flex;
     flex-direction: row;
+    
 }
 #contPhone{
     margin-left: 50px;
