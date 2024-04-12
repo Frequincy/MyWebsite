@@ -113,8 +113,22 @@ h1 a {
     font-size: 25px;
     
 }
-
-
+#Skills{
+    display: flex;
+    flex-direction: row;
+    border-style: solid;
+    border-color: dimgray;
+}
+#img1{
+    width: 600px;
+    margin-left: 400px;
+}
+#skillList{
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
 
 
 
